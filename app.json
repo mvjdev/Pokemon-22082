@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PokemonApp",
+    "slug": "PokemonApp",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/Pokemon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Pokemon.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
